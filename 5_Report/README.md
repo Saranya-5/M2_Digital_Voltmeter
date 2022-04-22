@@ -1,5 +1,5 @@
 # INTRODUCTION 
-This project is designed using a Atmega 32 microcontroller from range 0-5v.This is a simplest possible digital voltmeter with Atmel AVR microcontroller and LCD display.
+A digital voltmeter measures an unknown input voltage by converting the voltage to digital value and then displays the voltage in numeric form.Usually it has high resistance so that takes negligible current from the circuit.This project is designed using a Atmega 32 microcontroller from range 0-5v.This is a simplest possible digital voltmeter with Atmel AVR microcontroller and LCD display.
 
 ## COMPONENTS REQUIRED
  Atmega 32,Power supply, 100uF capacitor, 100 nF capacitor,Resistor
