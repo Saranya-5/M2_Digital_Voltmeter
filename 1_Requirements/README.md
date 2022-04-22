@@ -13,6 +13,6 @@ What: Digital Voltmeter
 
 Where: Determine if battery is charged or drained
 
-When: It is used to measure voltage between two 
+When: It is used to measure the electrical potential between two points.
 
 How: Measures the voltage from the range 0-5v 
