@@ -1,7 +1,5 @@
 # INTRODUCTION
 Digital voltmeter display the value of AC or DC voltage 
-
-# REQUIREMENTS
 - The system is used to measure the voltage in low voltage requirements.
 - The input voltage should be in range of 0-5v.
 - This circuit can be used in digital multimeters to provide digital readingof measured voltage.
